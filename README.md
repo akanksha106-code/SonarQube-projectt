@@ -1,4 +1,3 @@
-# SonarQube-project
 # SonarQube
 # SonarQube - Code Quality Analysis  
 
