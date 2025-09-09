@@ -1,7 +1,6 @@
 
 # SonarQube - Code Quality Analysis 
 
-
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)  
 [![Jenkins](https://img.shields.io/badge/Jenkins-8080-orange?logo=jenkins)](#)  
