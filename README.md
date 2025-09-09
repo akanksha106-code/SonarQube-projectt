@@ -1,5 +1,5 @@
 
-# SonarQube - Code Quality Analysis  
+# SonarQube - Code Quality Analysis 
 
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
