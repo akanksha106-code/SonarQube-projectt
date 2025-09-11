@@ -6,7 +6,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-8080-orange?logo=jenkins)](#)  
 [![SonarQube](https://img.shields.io/badge/SonarQube-9000-blue?logo=sonarqube)](#)  
 
----
+--- 
 
 ## 📑 Table of Contents  
  
